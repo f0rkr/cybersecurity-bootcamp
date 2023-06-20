@@ -1,2 +1,4 @@
 # cybersecurity-pool
-<img href="images/back.jpg" />
+<img src="/images/back.png" />
+
+<img src="/images/foot.png" />
